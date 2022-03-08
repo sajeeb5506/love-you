@@ -1,0 +1,25 @@
+body {
+    background-image: url(img/23294.jpg);
+    background-repeat: no-repeat;
+    background-size: 180%;
+
+}
+
+.love {
+    color: rgb(54, 219, 54);
+
+    font-size: 50px;
+}
+
+.gf {
+    color: rgb(79, 40, 253);
+    font-size: 50px;
+}
+
+.color-result {
+    color: rgb(235, 51, 164);
+}
+
+#result {
+    display: none;
+}
